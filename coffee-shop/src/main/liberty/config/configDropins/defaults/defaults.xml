@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<server description="Coffee Shop Server">
+
+    <featureManager>
+        <feature>jsp-2.2</feature>
+    </featureManager>
+
+</server>
